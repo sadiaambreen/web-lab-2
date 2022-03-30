@@ -1,0 +1,40 @@
+ul { 
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    list-style-type: circle;
+    font-size: 20px;
+  }
+  li a {
+    display: block;
+    padding: 5px;
+    background-color: antiquewhite;
+  }
+  h1{
+      font-family: 'Times New Roman', Times, serif;
+      font-style: italic;
+      color: rgb(251, 255, 0);
+  }
+  p{
+      font-size: 25px;
+      font-family: 'Times New Roman', Times, serif;
+      font-style: italic;
+      color:rgb(255, 255, 255)
+    
+  }
+  h2{
+      
+      color: rgb(251, 255, 0);
+  }
+  
+  img{
+      width: 700px;
+      height: 400px;
+  }
+
+  body{
+      background-image: url(IMAGES/photopraghy.jpg);
+      background-attachment: fixed;
+      background-size: cover;
+    }
+    
+    

@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(124, 3, 3);
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    }
+    img{
+        width: 50;
+        height: 50;
+        margin: 10px;
+        border-bottom: 7px solid red;
+        border-top: 7px solid rgb(229, 255, 0);
+        text-shadow: navajowhite;
+        transition:alt 1s;
+       
+    }
+    img:hover{
+    transform: scale(1.1);
+    } 
+    h1{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 4em;
+        border-bottom: 15px solid rgb(199, 112, 112);
+        border-top: 20px solid rgb(0, 225, 255);
+        box-shadow:20px 20px 4px palevioletred;
+        margin-top: auto;
+        margin-bottom: auto;
+        text-align: center;
+        margin: 50px;
+        background-color: antiquewhite;
+        font-style: italic;
+    }
